@@ -1,0 +1,5 @@
+services:
+  diamond-node:
+    build: .
+    ports:
+      - 8545:54100
